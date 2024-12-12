@@ -42,11 +42,12 @@ body{
 .container h2{
     color: var(--slate900);
     padding: 0.25rem;
+    margin-top: 1rem;
     margin-bottom: 0.625rem;
 }
 .container p{
     color: var(--slate500);
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 
 .attribution { font-size: 12px; text-align: center; }
